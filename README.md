@@ -18,7 +18,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl php openssh-server -y ; git clone git://github.com/Optane002/ZPhisher.git ; cd ZPhisher ; bash ZPhisher.sh
+sudo apt update && apt install git curl php openssh-server -y && git clone git://github.com/Optane002/ZPhisher.git && cd ZPhisher && bash ZPhisher.sh
 ```
 <br>
 <p align="center">
